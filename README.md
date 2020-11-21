@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  <img alt="Sass" align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 - 🥅 2020 Goals: Become Junior Fron-End Web Developer
 - ⚡ Fun fact: Poker, Football, Coding
-- 📫 How to reach me: 
+- 📫 How to reach me: here
 
 <!--
 **MartinsAccount/MartinsAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
