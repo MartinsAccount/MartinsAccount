@@ -2,7 +2,7 @@
 
 ## I'm a junior front-end web developer.
 
-- 🌱 I’m currently learning Nodejs <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+- 🌱 I’m currently learning Nodejs <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 - 🥅 2021 Goals: Become full-stack Web Developer
 - ⚡ Fun fact: Poker, Football, Coding
 - 📫 How to reach me: here
